@@ -63,8 +63,8 @@ class TwitterAuthKeys extends _TwitterAuthKeys {
   }
 }
 
-class FriendListResponse extends _FriendListResponse {
-  FriendListResponse({this.previousCursor, this.nextCursor, this.users});
+class FollowerIdsResponse extends _FollowerIdsResponse {
+  FollowerIdsResponse({this.previousCursor, this.nextCursor, this.ids});
 
   @override
   final int previousCursor;
@@ -73,18 +73,18 @@ class FriendListResponse extends _FriendListResponse {
   final int nextCursor;
 
   @override
-  final List<_TwitterUser> users;
+  final List<int> ids;
 
-  FriendListResponse copyWith(
-      {int previousCursor, int nextCursor, List<_TwitterUser> users}) {
-    return new FriendListResponse(
+  FollowerIdsResponse copyWith(
+      {int previousCursor, int nextCursor, List<int> ids}) {
+    return new FollowerIdsResponse(
         previousCursor: previousCursor ?? this.previousCursor,
         nextCursor: nextCursor ?? this.nextCursor,
-        users: users ?? this.users);
+        ids: ids ?? this.ids);
   }
 
   Map<String, dynamic> toJson() {
-    return FriendListResponseSerializer.toMap(this);
+    return FollowerIdsResponseSerializer.toMap(this);
   }
 }
 

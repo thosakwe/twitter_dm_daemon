@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
-import 'package:angel_framework/angel_framework.dart';
 import 'package:twitter/twitter.dart';
 import 'package:yaml/yaml.dart' as yaml;
 import 'src/models/config.dart';
@@ -19,24 +18,30 @@ main(List<String> args) async {
         keys.key, keys.secret, keys.accessToken, keys.accessTokenSecret);
   }
 
-  var app = new Angel()..lazyParseBodies = true;
+  //var app = new Angel()..lazyParseBodies = true;
 
-  List<String> friendIds = [];
+  var friendsFile = new File('friends.json');
+  List<int> friendIds = [];
 
-  Future<List<TwitterUser>> fetchNewFriends() async {
+  if (await friendsFile.exists()) {
+    var list = JSON.decode(await friendsFile.readAsString());
+    friendIds.addAll(list);
+  }
+
+  Future<List<int>> fetchNewFriends() async {
     int cursor = -1;
-    var newFriends = <TwitterUser>[];
+    var newFriends = <int>[];
 
     while (cursor != 0) {
       var response = await createTwitter()
-          .request('GET', 'friends/list.json?cursor=$cursor');
+          .request('GET', 'followers/ids.json?cursor=$cursor');
       var friendsList =
-          FriendListResponseSerializer.fromMap(JSON.decode(response.body));
+          FollowerIdsResponseSerializer.fromMap(JSON.decode(response.body));
 
-      for (var friend in friendsList.users) {
-        if (!friendIds.contains(friend.idStr)) {
-          newFriends.add(friend);
-          friendIds.add(friend.idStr);
+      for (var id in friendsList.ids) {
+        if (!friendIds.contains(id)) {
+          newFriends.add(id);
+          friendIds.add(id);
         }
       }
 
@@ -45,19 +50,46 @@ main(List<String> args) async {
       break;
     }
 
+    await friendsFile.writeAsString(JSON.encode(friendIds));
     return newFriends;
   }
 
   // Get first page
   await fetchNewFriends();
-
-  print(friendIds);
+  print('Initial friends: $friendIds');
 
   new Timer.periodic(new Duration(milliseconds: config.delay ?? 60000),
       (Timer timer) async {
-    timer.cancel();
     var newFriends = await fetchNewFriends();
-    newFriends.forEach((f) => print(f.toJson()));
-    print(friendIds);
+    print('New friends: $newFriends');
+    var messageFile = new File('message.txt');
+    var messageText = await messageFile.readAsString();
+
+    for (var id in newFriends) {
+      var response = await createTwitter().twitterClient.request(
+            'POST',
+            'https://api.twitter.com/1.1/direct_messages/events/new.json',
+            headers: {'content-type': 'application/json'},
+            body: JSON.encode({
+              "event": {
+                "type": "message_create",
+                "message_create": {
+                  "target": {"recipient_id": id.toString()},
+                  "message_data": {
+                    "text": messageText,
+                  }
+                }
+              }
+            }),
+          );
+
+      if (response.statusCode >= 400)
+        print('Could not DM user $id: ${response.statusCode} ${response
+                .body}');
+      else {
+        print(response.statusCode);
+        print(response.body);
+      }
+    }
   });
 }

@@ -10,5 +10,9 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
+friends.yaml
 twitter.yaml
 .dart_tool
+.gitignore
+message.txt
+friends.json

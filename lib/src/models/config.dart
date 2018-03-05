@@ -20,9 +20,11 @@ class _TwitterAuthKeys {
 }
 
 @Serializable(autoIdAndDateFields: false)
-class _FriendListResponse {
+class _FollowerIdsResponse {
   int previousCursor, nextCursor;
-  List<_TwitterUser> users;
+
+  @Exclude(canDeserialize: true)
+  List<int> ids;
 }
 
 @Serializable(autoIdAndDateFields: false)

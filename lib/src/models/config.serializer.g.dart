@@ -49,22 +49,19 @@ abstract class TwitterAuthKeysSerializer {
   }
 }
 
-abstract class FriendListResponseSerializer {
-  static FriendListResponse fromMap(Map map,
-      {int previousCursor, int nextCursor, List<_TwitterUser> users}) {
-    return new FriendListResponse(
+abstract class FollowerIdsResponseSerializer {
+  static FollowerIdsResponse fromMap(Map map,
+      {int previousCursor, int nextCursor, List<int> ids}) {
+    return new FollowerIdsResponse(
         previousCursor: map['previous_cursor'],
         nextCursor: map['next_cursor'],
-        users: map['users'] is Iterable
-            ? map['users'].map(TwitterUserSerializer.fromMap).toList()
-            : null);
+        ids: map['ids']);
   }
 
-  static Map<String, dynamic> toMap(FriendListResponse model) {
+  static Map<String, dynamic> toMap(FollowerIdsResponse model) {
     return {
       'previous_cursor': model.previousCursor,
-      'next_cursor': model.nextCursor,
-      'users': model.users?.map(TwitterUserSerializer.toMap)?.toList()
+      'next_cursor': model.nextCursor
     };
   }
 }

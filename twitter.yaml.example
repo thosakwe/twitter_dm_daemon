@@ -1,0 +1,13 @@
+public_ip:
+delay: 60000
+auth:
+  -
+    key:
+    secret:
+    access_token:
+    access_token_secret:
+  -
+    key:
+    secret:
+    access_token:
+    access_token_secret:
