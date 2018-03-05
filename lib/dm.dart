@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
+import 'dart:io' as io show pid;
 import 'dart:math';
 import 'package:stack_trace/stack_trace.dart';
 import 'package:twitter/twitter.dart';
@@ -11,6 +12,7 @@ final Directory parentDir = new File.fromUri(Platform.script).parent.parent;
 
 main() {
   var logFile = new File.fromUri(parentDir.uri.resolve('error_log.txt'));
+
   runZoned(daemon, onError: (e, st) {
     var sink = logFile.openWrite(mode: FileMode.APPEND);
     sink
@@ -21,6 +23,15 @@ main() {
 }
 
 daemon() async {
+  var pidFile = new File.fromUri(parentDir.uri.resolve('run.pid'));
+
+  // Kill existing process
+  if (await pidFile.exists()) {
+    var pid = await pidFile.readAsString().then(int.parse);
+    Process.killPid(pid);
+    await pidFile.writeAsString(io.pid.toString());
+  }
+
   var configFile = new File.fromUri(parentDir.uri.resolve('twitter.yaml'));
   var config = ConfigSerializer.fromMap(
       yaml.loadYamlDocument(await configFile.readAsString()).contents.value);
