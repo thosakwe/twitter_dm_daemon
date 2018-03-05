@@ -2,12 +2,24 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
+import 'package:stack_trace/stack_trace.dart';
 import 'package:twitter/twitter.dart';
 import 'package:yaml/yaml.dart' as yaml;
 import 'src/models/config.dart';
 
-main(List<String> args) async {
-  var configFile = new File('twitter.yaml');
+main() {
+  var logFile = new File.fromUri(Platform.script.resolve('error_log.txt'));
+  runZoned(daemon, onError: (e, st) {
+    var sink = logFile.openWrite(mode: FileMode.APPEND);
+    sink
+      ..writeln(e)
+      ..writeln(new Chain.forTrace(st).terse)
+      ..close();
+  });
+}
+
+daemon() async {
+  var configFile = new File.fromUri(Platform.script.resolve('twitter.yaml'));
   var config = ConfigSerializer.fromMap(
       yaml.loadYamlDocument(await configFile.readAsString()).contents.value);
   var rnd = new Random();
@@ -20,7 +32,7 @@ main(List<String> args) async {
 
   //var app = new Angel()..lazyParseBodies = true;
 
-  var friendsFile = new File('friends.json');
+  var friendsFile = new File.fromUri(Platform.script.resolve('friends.json'));
   List<int> friendIds = [];
 
   if (await friendsFile.exists()) {
@@ -55,14 +67,15 @@ main(List<String> args) async {
   }
 
   // Get first page
-  await fetchNewFriends();
+  if (!await friendsFile.exists()) await fetchNewFriends();
+
   print('Initial friends: $friendIds');
 
   new Timer.periodic(new Duration(milliseconds: config.delay ?? 60000),
       (Timer timer) async {
     var newFriends = await fetchNewFriends();
     print('New friends: $newFriends');
-    var messageFile = new File('message.txt');
+    var messageFile = new File.fromUri(Platform.script.resolve('message.txt'));
     var messageText = await messageFile.readAsString();
 
     for (var id in newFriends) {
