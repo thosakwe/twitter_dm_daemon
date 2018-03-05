@@ -7,7 +7,7 @@ import 'package:twitter/twitter.dart';
 import 'package:yaml/yaml.dart' as yaml;
 import 'src/models/config.dart';
 
-final Directory parentDir = new File.fromUri(Platform.script).parent;
+final Directory parentDir = new File.fromUri(Platform.script).parent.parent;
 
 main() {
   var logFile = new File.fromUri(parentDir.uri.resolve('error_log.txt'));
