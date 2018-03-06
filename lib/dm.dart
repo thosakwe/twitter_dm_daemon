@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:io' as io show pid;
 import 'dart:math';
+import 'package:millisecond/millisecond.dart' as ms;
 import 'package:stack_trace/stack_trace.dart';
 import 'package:twitter/twitter.dart';
 import 'package:yaml/yaml.dart' as yaml;
@@ -35,6 +36,8 @@ daemon() async {
   var configFile = new File.fromUri(parentDir.uri.resolve('twitter.yaml'));
   var config = ConfigSerializer.fromMap(
       yaml.loadYamlDocument(await configFile.readAsString()).contents.value);
+  var delay = new Duration(milliseconds: config.delay);
+  print('Polling delay: ${ms.format(delay.inMilliseconds, long: true)}');
   var rnd = new Random();
 
   Twitter createTwitter() {
@@ -46,6 +49,8 @@ daemon() async {
   //var app = new Angel()..lazyParseBodies = true;
 
   var friendsFile = new File.fromUri(parentDir.uri.resolve('friends.json'));
+  print('friends.json: ${friendsFile.absolute.path} (exists: ${await friendsFile
+      .exists()})');
   List<int> friendIds = [];
 
   if (await friendsFile.exists()) {
@@ -84,11 +89,10 @@ daemon() async {
 
   print('${friendIds.length} initial friends');
 
-  new Timer.periodic(new Duration(milliseconds: config.delay ?? 60000),
-      (Timer timer) async {
+  checkForNewFriends(Timer timer) async {
     var newFriends = await fetchNewFriends();
     if (newFriends.isEmpty) return;
-    print('New friends: $newFriends');
+    //print('New friends: $newFriends');
     var messageFile = new File.fromUri(parentDir.uri.resolve('message.txt'));
     var messageText = await messageFile.readAsString();
 
@@ -112,11 +116,15 @@ daemon() async {
 
       if (response.statusCode >= 400)
         print('Could not DM user $id: ${response.statusCode} ${response
-                .body}');
+            .body}');
       else {
         //print(response.statusCode);
         //print(response.body);
       }
     }
-  });
+  }
+
+  await checkForNewFriends(null);
+  new Timer.periodic(
+      new Duration(milliseconds: config.delay), checkForNewFriends);
 }

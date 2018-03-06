@@ -3,6 +3,7 @@ dependencies:
   angel_model: "^1.0.0"
   angel_serialize: "^2.0.0"
   args: "^1.0.0"
+  millisecond: ^0.1.0
   twitter: "^0.5.1"
 dev_dependencies: 
   angel_serialize_generator: "^2.0.0"
