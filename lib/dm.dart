@@ -102,6 +102,7 @@ daemon() async {
     var messageText = await messageFile.readAsString();
 
     for (var id in newFriends) {
+      friendIds.add(id);
       var response = await createTwitter().twitterClient.request(
             'POST',
             'https://api.twitter.com/1.1/direct_messages/events/new.json',
@@ -123,7 +124,6 @@ daemon() async {
         print('Could not DM user $id: ${response.statusCode} ${response
             .body}');
       else {
-        friendIds.add(id);
         //print(response.statusCode);
         //print(response.body);
       }
