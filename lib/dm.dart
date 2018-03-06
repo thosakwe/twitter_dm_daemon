@@ -82,11 +82,12 @@ daemon() async {
   // Get first page
   if (!await friendsFile.exists()) await fetchNewFriends();
 
-  print('Initial friends: $friendIds');
+  print('${friendIds.length} initial friends');
 
   new Timer.periodic(new Duration(milliseconds: config.delay ?? 60000),
       (Timer timer) async {
     var newFriends = await fetchNewFriends();
+    if (newFriends.isEmpty) return;
     print('New friends: $newFriends');
     var messageFile = new File.fromUri(parentDir.uri.resolve('message.txt'));
     var messageText = await messageFile.readAsString();
