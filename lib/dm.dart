@@ -74,6 +74,7 @@ daemon() async {
       for (var id in friendsList.ids) {
         if (!friendIds.contains(id)) {
           newFriends.add(id);
+          friendIds.add(id);
         }
       }
 
@@ -102,7 +103,6 @@ daemon() async {
     var messageText = await messageFile.readAsString();
 
     for (var id in newFriends) {
-      friendIds.add(id);
       var response = await createTwitter().twitterClient.request(
             'POST',
             'https://api.twitter.com/1.1/direct_messages/events/new.json',
