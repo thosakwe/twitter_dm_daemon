@@ -114,8 +114,8 @@ daemon() async {
         print('Could not DM user $id: ${response.statusCode} ${response
                 .body}');
       else {
-        print(response.statusCode);
-        print(response.body);
+        //print(response.statusCode);
+        //print(response.body);
       }
     }
   });
