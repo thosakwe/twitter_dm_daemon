@@ -53,7 +53,10 @@ daemon() async {
       .exists()})');
   List<int> friendIds = [];
 
+  bool shouldFetch = true;
+
   if (await friendsFile.exists()) {
+    shouldFetch = false;
     var list = JSON.decode(await friendsFile.readAsString());
     friendIds.addAll(list);
   }
@@ -71,7 +74,6 @@ daemon() async {
       for (var id in friendsList.ids) {
         if (!friendIds.contains(id)) {
           newFriends.add(id);
-          friendIds.add(id);
         }
       }
 
@@ -85,14 +87,17 @@ daemon() async {
   }
 
   // Get first page
-  if (!await friendsFile.exists()) await fetchNewFriends();
+  if (shouldFetch) {
+    print('No friends.json found... Fetching current follower list');
+    await fetchNewFriends();
+  }
 
   print('${friendIds.length} initial friends');
 
   checkForNewFriends(Timer timer) async {
     var newFriends = await fetchNewFriends();
     if (newFriends.isEmpty) return;
-    //print('New friends: $newFriends');
+    print('New friends: $newFriends');
     var messageFile = new File.fromUri(parentDir.uri.resolve('message.txt'));
     var messageText = await messageFile.readAsString();
 
@@ -118,13 +123,17 @@ daemon() async {
         print('Could not DM user $id: ${response.statusCode} ${response
             .body}');
       else {
+        friendIds.add(id);
         //print(response.statusCode);
         //print(response.body);
       }
     }
+
+    print('${friendIds.length} current friends');
   }
 
   await checkForNewFriends(null);
+
   new Timer.periodic(
       new Duration(milliseconds: config.delay), checkForNewFriends);
 }
