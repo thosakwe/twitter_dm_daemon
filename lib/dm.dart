@@ -73,8 +73,8 @@ daemon() async {
 
       for (var id in friendsList.ids) {
         if (!friendIds.contains(id)) {
-          newFriends.add(id);
           friendIds.add(id);
+          newFriends.add(id);
         }
       }
 
@@ -120,9 +120,11 @@ daemon() async {
             }),
           );
 
-      if (response.statusCode >= 400)
+      if (response.statusCode >= 400) {
         print('Could not DM user $id: ${response.statusCode} ${response
             .body}');
+        friendIds.remove(id);
+      }
       else {
         //print(response.statusCode);
         //print(response.body);
