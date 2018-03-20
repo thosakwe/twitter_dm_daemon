@@ -73,7 +73,6 @@ daemon() async {
 
       for (var id in friendsList.ids) {
         if (!friendIds.contains(id)) {
-          friendIds.add(id);
           newFriends.add(id);
         }
       }
@@ -83,6 +82,8 @@ daemon() async {
       break;
     }
 
+    newFriends = newFriends.take(5).toList();
+    friendIds.addAll(newFriends);
     await friendsFile.writeAsString(JSON.encode(friendIds));
     return newFriends;
   }
@@ -124,8 +125,7 @@ daemon() async {
         print('Could not DM user $id: ${response.statusCode} ${response
             .body}');
         friendIds.remove(id);
-      }
-      else {
+      } else {
         //print(response.statusCode);
         //print(response.body);
       }
