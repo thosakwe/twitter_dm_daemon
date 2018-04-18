@@ -1,0 +1,2556 @@
+SocketException: Connection failed (OS Error: Network is unreachable, errno = 51), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: Network is down, errno = 50), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:dm/dm.dart 107:58              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: Network is unreachable, errno = 51), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+
+package:http/src/io_client.dart 64:7   IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: No route to host, errno = 65), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: OS Error: Network is down, errno = 50, address = api.twitter.com, port = 59823
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: Network is down, errno = 50), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+HandshakeException: Connection terminated during handshake
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: OS Error: Connection reset by peer, errno = 54, address = api.twitter.com, port = 51953
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+
+package:http/src/io_client.dart 64:7   IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: OS Error: Operation timed out, errno = 60, address = api.twitter.com, port = 57272
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: No route to host, errno = 65), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: OS Error: Connection reset by peer, errno = 54, address = api.twitter.com, port = 58677
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: Network is unreachable, errno = 51), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+Connection closed before full header was received
+package:http/src/io_client.dart 64:7   IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: Network is down, errno = 50), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: Network is unreachable, errno = 51), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: OS Error: Connection reset by peer, errno = 54, address = api.twitter.com, port = 54534
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Connection failed (OS Error: No route to host, errno = 65), address = api.twitter.com, port = 443
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+
+SocketException: Failed host lookup: 'api.twitter.com' (OS Error: nodename nor servname provided, or not known, errno = 8)
+package:http/src/io_client.dart 30:23  IOClient.send
+===== asynchronous gap ===========================
+package:oauth/client.dart 105:22       Client.send
+package:twitter/src/client.dart 34:36  Client.request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 78:40     Twitter._request
+===== asynchronous gap ===========================
+package:twitter/twitter.dart 70:5      Twitter.request
+package:dm/dm.dart 70:12               daemon.fetchNewFriends
+===== asynchronous gap ===========================
+package:dm/dm.dart 100:43              daemon.checkForNewFriends
+

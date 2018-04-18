@@ -124,7 +124,8 @@ daemon() async {
       if (response.statusCode >= 400) {
         print('Could not DM user $id: ${response.statusCode} ${response
             .body}');
-        friendIds.remove(id);
+        if (response.statusCode != 403)
+          friendIds.remove(id);
       } else {
         //print(response.statusCode);
         //print(response.body);
